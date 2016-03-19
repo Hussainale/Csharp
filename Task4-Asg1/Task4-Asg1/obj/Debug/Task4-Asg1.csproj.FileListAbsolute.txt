@@ -1,0 +1,9 @@
+c:\users\hussain ali arif\documents\visual studio 2013\Projects\Task4-Asg1\Task4-Asg1\bin\Debug\Task4-Asg1.exe.config
+c:\users\hussain ali arif\documents\visual studio 2013\Projects\Task4-Asg1\Task4-Asg1\bin\Debug\Task4-Asg1.exe
+c:\users\hussain ali arif\documents\visual studio 2013\Projects\Task4-Asg1\Task4-Asg1\bin\Debug\Task4-Asg1.pdb
+c:\users\hussain ali arif\documents\visual studio 2013\Projects\Task4-Asg1\Task4-Asg1\obj\Debug\Task4_Asg1.Form1.resources
+c:\users\hussain ali arif\documents\visual studio 2013\Projects\Task4-Asg1\Task4-Asg1\obj\Debug\Task4_Asg1.Properties.Resources.resources
+c:\users\hussain ali arif\documents\visual studio 2013\Projects\Task4-Asg1\Task4-Asg1\obj\Debug\Task4-Asg1.csproj.GenerateResource.Cache
+c:\users\hussain ali arif\documents\visual studio 2013\Projects\Task4-Asg1\Task4-Asg1\obj\Debug\Task4-Asg1.exe
+c:\users\hussain ali arif\documents\visual studio 2013\Projects\Task4-Asg1\Task4-Asg1\obj\Debug\Task4-Asg1.pdb
+c:\users\hussain ali arif\documents\visual studio 2013\Projects\Task4-Asg1\Task4-Asg1\obj\Debug\Task4-Asg1.csprojResolveAssemblyReference.cache
