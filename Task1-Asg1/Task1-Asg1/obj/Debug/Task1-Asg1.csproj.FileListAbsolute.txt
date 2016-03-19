@@ -1,0 +1,9 @@
+c:\users\hussain ali arif\documents\visual studio 2013\Projects\Task1-Asg1\Task1-Asg1\bin\Debug\Task1-Asg1.exe.config
+C:\Users\Hussain Ali Arif\Documents\Visual Studio 2013\Projects\Task1-Asg1\Task1-Asg1\bin\Debug\Task1-Asg1.exe
+C:\Users\Hussain Ali Arif\Documents\Visual Studio 2013\Projects\Task1-Asg1\Task1-Asg1\bin\Debug\Task1-Asg1.pdb
+C:\Users\Hussain Ali Arif\Documents\Visual Studio 2013\Projects\Task1-Asg1\Task1-Asg1\obj\Debug\Task1-Asg1.csprojResolveAssemblyReference.cache
+C:\Users\Hussain Ali Arif\Documents\Visual Studio 2013\Projects\Task1-Asg1\Task1-Asg1\obj\Debug\Task1_Asg1.Form1.resources
+C:\Users\Hussain Ali Arif\Documents\Visual Studio 2013\Projects\Task1-Asg1\Task1-Asg1\obj\Debug\Task1_Asg1.Properties.Resources.resources
+C:\Users\Hussain Ali Arif\Documents\Visual Studio 2013\Projects\Task1-Asg1\Task1-Asg1\obj\Debug\Task1-Asg1.csproj.GenerateResource.Cache
+C:\Users\Hussain Ali Arif\Documents\Visual Studio 2013\Projects\Task1-Asg1\Task1-Asg1\obj\Debug\Task1-Asg1.exe
+C:\Users\Hussain Ali Arif\Documents\Visual Studio 2013\Projects\Task1-Asg1\Task1-Asg1\obj\Debug\Task1-Asg1.pdb
